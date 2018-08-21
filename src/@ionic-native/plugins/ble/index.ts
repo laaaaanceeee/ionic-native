@@ -625,4 +625,5 @@ export class BLE extends IonicNativePlugin {
   bondedDevices (): Promise<any[]> {
     return;
   }
+                       
 }
